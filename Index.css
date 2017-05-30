@@ -1,0 +1,448 @@
+body{
+    height: 768px;
+    width: 1024px;
+    background-image: url(ImatgesIndex/Campo.jpg);
+  
+}
+
+#Enrere{
+    position: absolute;
+    top: 0px;
+    left: 750px;
+}
+
+#IndexPortada{
+    position: absolute;
+    background-color: rgb(0,0,0); opacity: 0.7;
+}
+#PortadaText{
+      position: absolute;
+    top: 120px;
+    left: 30px;
+    font-size: 100px;
+    font-family: Stencil Regular;
+    color: aliceblue;
+    text-align: center;
+}
+#PortadaFoto{
+     position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+/*Index.html*/
+div.IndexElements{
+    position: relative;
+}
+#Boton{
+    position: absolute;
+    top: 250px;
+    left: 100px;
+}
+#Boton2{
+    position: absolute;
+    top: 250px;
+    left: 550px;
+}
+#Mago{
+    position: absolute;
+    top: 270px;
+    left: 200px;
+}
+#Elements{
+    position: absolute;
+    top: 270px;
+    left: 575px;
+}
+#Brujula{
+    position: absolute;
+    top: 550px;
+    left: 425px;
+}
+#Supercell{
+    margin-bottom: auto;
+    margin-top: -130px;
+    margin-left: 800px;
+    margin-right: auto;   
+}
+
+/*Credits*/
+
+#pergamino{
+    position: absolute;
+    left: 240px;
+    top: 150px;
+    bottom: 30px;
+    right: 5px;
+}
+
+
+#CreditsTitul{
+    font-size: 70px;
+    position: absolute;
+    left: 430px;
+    top: 200px;
+    bottom: 30px;
+    right: 5px;
+}
+#Noms{
+    font-size: 70px;
+    position: absolute;
+    left: 330px;
+    top: 300px;
+    bottom: 30px;
+    right: 5px;  
+}
+
+/*Historia*/
+#Joc{  
+    margin-top: 20px;
+    margin-left: 60px;
+    margin-bottom: 30px;
+    margin-right: 10px;  
+}
+/*Joc*/
+#pergamino{
+    position: absolute;
+    left: 240px;
+    top: 150px;
+    bottom: 30px;
+    right: 5px;
+}
+#JocText{
+    position: absolute;
+    left: 320px;
+    right: 260px;
+    top: 240px;
+    text-align: justify;
+}
+#MagoJoc{
+    position: absolute;
+    left: -90px;
+    top: 300px;
+    bottom: 30px;
+    right: 5px;
+}
+/*Mapa*/
+#Mapa{
+    background-color: rgb(100,100,100); opacity: 0.8;
+    position: absolute;
+    top: 140px;
+    bottom: 30px;
+    left: 0px:     
+}
+
+/*Llansament*/
+
+#LlansamentText{
+    position: absolute;
+    left: 320px;
+    right: 260px;
+    top: 260px;
+    text-align: justify;
+}
+#MagoLlansament{
+    position: absolute;
+    left: 400px;
+    top: 580px;
+    bottom: 30px;
+    right: 5px;
+}
+/*Cartes*/
+#MagoCartes{
+    position: absolute;
+    left: 300px;
+    top: 0px;
+    bottom: 30px;
+    right: 5px;    
+}
+/*Arenes*/
+#TitolArenes{
+    position: absolute;
+    left: 350px;
+    right: 260px;
+    top: 240px;
+    text-align: justify;
+}
+
+#ArenesText{
+    position: absolute;
+    left: 450px;
+    right: 260px;
+    top: 290px;
+    text-align: justify;
+}
+#MagoArenes{
+    position: absolute;
+    left: 620px;
+    top: 480px;
+    bottom: 30px;
+    right: 5px;   
+}
+
+/*Elemnts.html*/
+#BotonElements{
+    position: absolute;
+    top: 200px;
+    left: 100px;
+}
+#BotonElements2{
+    position: absolute;
+    top: 200px;
+    left: 550px;
+}
+#BotonElements3{
+    position: absolute;
+    top: 480px;
+    left: 100px;
+}
+#BotonElements4{
+    position: absolute;
+    top: 480px;
+    left: 550px;
+}
+#ElemetsCartes{
+   position: absolute;
+    top: 200px;
+    left: 100px;
+}
+#ElementsCofres{
+    position: absolute;
+    top: 135px;
+    left: 450px;
+}
+#ElementsArena{
+    position: absolute;
+    top: 480px;
+    left: 100px;
+}
+#ElementsTornejos{
+    position: absolute;
+    top: 482px;
+    left: 550px;
+}
+
+/*Arena.html*/
+/*Arena.html*/
+#Entrenament{
+     position: absolute;
+    top: 200px;
+    left: 10px;
+}
+#Arena1{
+     position: absolute;
+    top: 200px;
+    left: 170px;
+   
+}
+ #Arena2{
+     position: absolute;
+    top: 210px;
+    left: 380px;
+}
+ #Arena3{
+     position: absolute;
+    top: 170px;
+    left: 590px;
+}
+#Arena4{
+     position: absolute;
+    top: 190px;
+    left: 800px;
+}
+#Arena5{
+     position: absolute;
+    top: 500px;
+    left: 10px;
+}
+#Arena6{
+     position: absolute;
+    top: 480px;
+    left: 220px;
+}
+#Arena7{
+     position: absolute;
+    top: 500px;
+    left: 400px;
+}
+#Arena8{
+     position: absolute;
+    top: 480px;
+    left: 600px;
+}
+#Arena9{
+     position: absolute;
+    top: 500px;
+    left: 800px;
+}
+
+
+/*Cartes.html*/
+#BotonCartes{
+    position: absolute;
+    top: 200px;
+    left: 100px;
+}
+#BotonCartes1{
+    position: absolute;
+    top: 200px;
+    left: 550px;
+}
+#BotonCartes2{
+    position: absolute;
+    top: 480px;
+    left: 100px;
+}
+#BotonCartes3{
+    position: absolute;
+    top: 480px;
+    left: 550px;
+}
+#ElementsEspecials{
+   position: absolute;
+    top: 200px;
+    left: 100px;
+}
+#ElementsEspecials1{
+    font-size:70px;
+   position: absolute;
+    top: 220px;
+    left: 170px;
+}
+#ElementsComuns{
+   position: absolute;
+    top: 200px;
+    left: 550px;
+}
+#ElementsComuns1{
+    font-size:80px;
+   position: absolute;
+    top: 220px;
+    left: 620px;
+}
+#ElementsEpiques{
+   position: absolute;
+    top: 480px;
+    left: 100px;
+}
+#ElementsEpiques1{
+    font-size:80px;
+   position: absolute;
+    top: 490px;
+    left: 170px;
+}
+#ElementsLlegendaries{
+   position: absolute;
+    top: 480px;
+    left: 550px;
+}
+#ElementsLlegendaries1{
+    font-size:60px;
+   position: absolute;
+    top: 500px;
+    left: 580px;
+}
+
+/*Cofres.html*/
+#cofres{
+    padding-left: 70px;
+    padding-top: 20px;
+}
+
+/*Estructura*/
+#EstructuraCartes{
+    position: absolute;
+    top: 162px;
+    left: 50px;
+}
+#Estedistiques{
+    position: absolute;
+    top: 260px;
+    left: 50px;
+}
+#EstructuraCartesText{
+    border: 5px;
+    border-style: ridge;
+    border-color: black;
+    background-color: #005e99;
+    padding-left: 20px;
+    padding-right: 42px;
+    position: absolute;
+    top: 155px;
+    left: 170px;
+    
+}
+
+/*Especials.html*/
+#MiniPekka{
+       position: absolute;
+    top: 200px;
+    left: 50px;
+}
+#Valquiria{
+       position: absolute;
+    top: 200px;
+    left: 200px;
+}
+#Mosquetera{
+       position: absolute;
+    top: 200px;
+    left: 350px;
+}
+#Gegant{
+       position: absolute;
+    top: 200px;
+    left: 500px;
+}
+#Montapuercos{
+       position: absolute;
+    top: 200px;
+    left: 650px;
+}
+#Mag{
+       position: absolute;
+    top: 200px;
+    left: 800px;
+}
+#TresMosqueteras{
+       position: absolute;
+    top: 400px;
+    left: 50px;
+}
+#BoladeFoc{
+       position: absolute;
+    top: 400px;
+    left: 200px;
+}
+#TorreBombardera{
+       position: absolute;
+    top: 400px;
+    left: 350px;
+}
+#TorreInfernal{
+       position: absolute;
+    top: 400px;
+    left: 500px;
+}
+#Lapida{
+       position: absolute;
+    top: 400px;
+    left: 650px;
+}
+#BarracadeFollets{
+       position: absolute;
+    top: 400px;
+    left: 800px;
+}
+#BarracadeBarbaros{
+       position: absolute;
+    top: 600px;
+    left: 425px;
+}
+
+/*Trofeus*/
+#Trofeus{
+       position: absolute;
+    top: 490px;
+    left: 430px;
+}
